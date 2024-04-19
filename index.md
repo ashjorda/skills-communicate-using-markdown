@@ -26,3 +26,6 @@ def whattimeisit():
   tellthetime = time()
   print(tellthetime)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
